@@ -1,3 +1,13 @@
+.carousel {
+  max-height: calc(100% - 56px);
+  overflow-y: hidden;
+}
+
+.carousel .carousel-item {
+
+  max-height: calc(100% - 56px);
+}
+
 #map {
     
     height: 200px;
